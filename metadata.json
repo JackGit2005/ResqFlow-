@@ -1,0 +1,10 @@
+{
+  "name": "ResQFlow - Emergency Resource Allocation Platform",
+  "description": "Modern emergency resource allocation and disaster coordination platform for Ballari, Karnataka, India with incident triage, resource tracking, shelter capacity, interactive maps, simulation mode, and ResQAI emergency assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
